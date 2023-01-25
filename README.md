@@ -45,3 +45,8 @@ Contract - when the booking has an allotment or other type of contract associate
 * total_of_special_requests=Number of special requests made by the customer (e.g. twin bed or high floor)
 * reservation_status=Reservation last status, assuming one of three categories: Canceled – booking was canceled by the customer; Check-Out – customer has checked in but already departed; No-Show – customer did not check-in and did inform the hotel of the reason why
 * reservation_status_date=Date at which the last status was set. This variable can be used in conjunction with the Reservation Status to understand when was the booking canceled or when did the customer checked-out of the hotel
+
+#Screenshot:
+
+![image](https://user-images.githubusercontent.com/110291864/214470792-e0eadd79-7275-4c04-83b1-c9990bebd645.png)
+
